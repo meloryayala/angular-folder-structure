@@ -1,4 +1,4 @@
-Angular Folder Structure - Highly Scalable
+Angular Folder Structure - Highly Scalable Test
 ========================================
 
 ![docs badge](https://readthedocs.org/projects/angular-folder-structure/badge/?version=latest)
